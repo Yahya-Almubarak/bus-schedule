@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/icons8_map_24"
+        android:title="Map" />
+    <item
+        android:id="@+id/navigation_lines"
+        android:icon="@drawable/icons8_bus_24"
+        android:title="Bus" />
+    <item
+        android:id="@+id/navigation_routes"
+        android:icon="@drawable/icons8_route_24"
+        android:title="Routes" />
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/icons8_star_24"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/icons8_more_24"
+        android:title="More" />
+
+</menu>
